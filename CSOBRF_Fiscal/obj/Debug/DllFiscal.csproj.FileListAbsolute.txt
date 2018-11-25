@@ -1,0 +1,11 @@
+C:\PcDevGit\CSharpOpenBrFramework\Compilados\DllFiscal.dll.config
+C:\PcDevGit\CSharpOpenBrFramework\Compilados\DllFiscal.dll
+C:\PcDevGit\CSharpOpenBrFramework\Compilados\DllFiscal.pdb
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\DllFiscal.csprojAssemblyReference.cache
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\DllFiscal.csproj.CoreCompileInputs.cache
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\DllFiscal.csproj.CopyComplete
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\DllFiscal.dll
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\DllFiscal.pdb
+C:\CSharpOpenBrFramework\DllFiscal.dll.config
+C:\CSharpOpenBrFramework\DllFiscal.dll
+C:\CSharpOpenBrFramework\DllFiscal.pdb

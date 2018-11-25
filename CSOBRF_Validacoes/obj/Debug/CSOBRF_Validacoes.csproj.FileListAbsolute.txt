@@ -1,0 +1,11 @@
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataContrValidacoes\obj\Debug\CSOBRF_Validacoes.csproj.CoreCompileInputs.cache
+C:\CSharpOpenBrFramework\CSOBRF_Validacoes.dll.config
+C:\CSharpOpenBrFramework\CSOBRF_Validacoes.dll
+C:\CSharpOpenBrFramework\CSOBRF_Validacoes.pdb
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataContrValidacoes\obj\Debug\CSOBRF_Validacoes.dll
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataContrValidacoes\obj\Debug\CSOBRF_Validacoes.pdb
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataContrValidacoes\obj\Debug\CSOBRF_Validacoes.csprojAssemblyReference.cache
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.csproj.CoreCompileInputs.cache
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.dll
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.pdb
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.csprojAssemblyReference.cache

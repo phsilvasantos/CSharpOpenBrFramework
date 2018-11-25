@@ -1,0 +1,11 @@
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataCriptografia\obj\Debug\CSOBRF_Criptografia.csproj.CoreCompileInputs.cache
+C:\CSharpOpenBrFramework\CSOBRF_Criptografia.dll.config
+C:\CSharpOpenBrFramework\CSOBRF_Criptografia.dll
+C:\CSharpOpenBrFramework\CSOBRF_Criptografia.pdb
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataCriptografia\obj\Debug\CSOBRF_Criptografia.dll
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataCriptografia\obj\Debug\CSOBRF_Criptografia.pdb
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.csproj.CoreCompileInputs.cache
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.dll
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.pdb
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.csprojAssemblyReference.cache
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.csproj.CopyComplete

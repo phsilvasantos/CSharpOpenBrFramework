@@ -1,0 +1,13 @@
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\CSOBRF_Util.csprojAssemblyReference.cache
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\CSOBRF_Util.csproj.CoreCompileInputs.cache
+C:\CSharpOpenBrFramework\CSOBRF_Util.dll.config
+C:\CSharpOpenBrFramework\CSOBRF_Util.dll
+C:\CSharpOpenBrFramework\CSOBRF_Util.pdb
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\CSOBRF_Util.csproj.CopyComplete
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\CSOBRF_Util.dll
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\CSOBRF_Util.pdb
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.csprojAssemblyReference.cache
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.csproj.CoreCompileInputs.cache
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.dll
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.pdb
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.csproj.CopyComplete

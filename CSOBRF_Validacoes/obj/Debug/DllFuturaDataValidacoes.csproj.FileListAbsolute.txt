@@ -1,0 +1,8 @@
+C:\FuturaData\DllsFuturaData\DllFuturaDataValidacoes.dll.config
+C:\FuturaData\DllsFuturaData\DllFuturaDataValidacoes.dll
+C:\FuturaData\DllsFuturaData\DllFuturaDataValidacoes.pdb
+C:\PcDev\DllsFuturaData\DllFuturaDataContrValidacoes\obj\Debug\DllFuturaDataValidacoes.csprojAssemblyReference.cache
+C:\PcDev\DllsFuturaData\DllFuturaDataContrValidacoes\obj\Debug\DllFuturaDataValidacoes.csproj.CoreCompileInputs.cache
+C:\PcDev\DllsFuturaData\DllFuturaDataContrValidacoes\obj\Debug\DllFuturaDataValidacoes.csproj.CopyComplete
+C:\PcDev\DllsFuturaData\DllFuturaDataContrValidacoes\obj\Debug\DllFuturaDataValidacoes.dll
+C:\PcDev\DllsFuturaData\DllFuturaDataContrValidacoes\obj\Debug\DllFuturaDataValidacoes.pdb

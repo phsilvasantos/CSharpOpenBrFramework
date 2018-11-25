@@ -1,0 +1,11 @@
+C:\PcDevGit\CSharpOpenBrFramework\Compilados\DllUtil.dll.config
+C:\PcDevGit\CSharpOpenBrFramework\Compilados\DllUtil.dll
+C:\PcDevGit\CSharpOpenBrFramework\Compilados\DllUtil.pdb
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\DllUtil.csprojAssemblyReference.cache
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\DllUtil.csproj.CoreCompileInputs.cache
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\DllUtil.csproj.CopyComplete
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\DllUtil.dll
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataUtil\obj\Debug\DllUtil.pdb
+C:\CSharpOpenBrFramework\DllUtil.dll.config
+C:\CSharpOpenBrFramework\DllUtil.dll
+C:\CSharpOpenBrFramework\DllUtil.pdb

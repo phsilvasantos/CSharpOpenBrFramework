@@ -1,0 +1,8 @@
+C:\FuturaData\DllsFuturaData\DllFuturaDataUtil.dll.config
+C:\FuturaData\DllsFuturaData\DllFuturaDataUtil.dll
+C:\FuturaData\DllsFuturaData\DllFuturaDataUtil.pdb
+C:\PcDev\DllsFuturaData\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.csprojAssemblyReference.cache
+C:\PcDev\DllsFuturaData\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.csproj.CoreCompileInputs.cache
+C:\PcDev\DllsFuturaData\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.csproj.CopyComplete
+C:\PcDev\DllsFuturaData\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.dll
+C:\PcDev\DllsFuturaData\DllFuturaDataUtil\obj\Debug\DllFuturaDataUtil.pdb

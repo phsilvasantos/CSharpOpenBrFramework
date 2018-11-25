@@ -1,0 +1,9 @@
+C:\PcDevGit\CSharpOpenBrFramework\Compilados\DllCriptografia.dll.config
+C:\PcDevGit\CSharpOpenBrFramework\Compilados\DllCriptografia.dll
+C:\PcDevGit\CSharpOpenBrFramework\Compilados\DllCriptografia.pdb
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataCriptografia\obj\Debug\DllCriptografia.csproj.CoreCompileInputs.cache
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataCriptografia\obj\Debug\DllCriptografia.dll
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataCriptografia\obj\Debug\DllCriptografia.pdb
+C:\CSharpOpenBrFramework\DllCriptografia.dll.config
+C:\CSharpOpenBrFramework\DllCriptografia.dll
+C:\CSharpOpenBrFramework\DllCriptografia.pdb

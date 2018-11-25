@@ -1,0 +1,11 @@
+C:\FuturaData\DllsFuturaData\DllValidacoes.dll.config
+C:\FuturaData\DllsFuturaData\DllValidacoes.dll
+C:\FuturaData\DllsFuturaData\DllValidacoes.pdb
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataContrValidacoes\obj\Debug\DllValidacoes.csprojAssemblyReference.cache
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataContrValidacoes\obj\Debug\DllValidacoes.csproj.CoreCompileInputs.cache
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataContrValidacoes\obj\Debug\DllValidacoes.csproj.CopyComplete
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataContrValidacoes\obj\Debug\DllValidacoes.dll
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataContrValidacoes\obj\Debug\DllValidacoes.pdb
+C:\CSharpOpenBrFramework\DllValidacoes.dll.config
+C:\CSharpOpenBrFramework\DllValidacoes.dll
+C:\CSharpOpenBrFramework\DllValidacoes.pdb

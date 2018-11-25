@@ -1,0 +1,13 @@
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\CSOBRF_Fiscal.csproj.CoreCompileInputs.cache
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\CSOBRF_Fiscal.csprojAssemblyReference.cache
+C:\CSharpOpenBrFramework\CSOBRF_Fiscal.dll.config
+C:\CSharpOpenBrFramework\CSOBRF_Fiscal.dll
+C:\CSharpOpenBrFramework\CSOBRF_Fiscal.pdb
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\CSOBRF_Fiscal.csproj.CopyComplete
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\CSOBRF_Fiscal.dll
+C:\PcDevGit\CSharpOpenBrFramework\DllFuturaDataFiscal\obj\Debug\CSOBRF_Fiscal.pdb
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.csprojAssemblyReference.cache
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.csproj.CoreCompileInputs.cache
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.dll
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.pdb
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.csproj.CopyComplete

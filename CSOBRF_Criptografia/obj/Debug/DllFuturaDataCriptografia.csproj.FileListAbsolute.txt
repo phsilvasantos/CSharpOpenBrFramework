@@ -1,0 +1,6 @@
+C:\FuturaData\DllsFuturaData\DllFuturaDataCriptografia.dll.config
+C:\FuturaData\DllsFuturaData\DllFuturaDataCriptografia.dll
+C:\FuturaData\DllsFuturaData\DllFuturaDataCriptografia.pdb
+C:\PcDev\DllsFuturaData\DllFuturaDataCriptografia\obj\Debug\DllFuturaDataCriptografia.csproj.CoreCompileInputs.cache
+C:\PcDev\DllsFuturaData\DllFuturaDataCriptografia\obj\Debug\DllFuturaDataCriptografia.dll
+C:\PcDev\DllsFuturaData\DllFuturaDataCriptografia\obj\Debug\DllFuturaDataCriptografia.pdb
