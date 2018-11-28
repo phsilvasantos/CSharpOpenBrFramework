@@ -105,7 +105,7 @@
       <Project>{4e15c02c-d93c-4c91-93a4-5d4b5b276fae}</Project>
       <Name>CSOBRF_Validacoes</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DllFuturaDataUtil\CSOBRF_Util.csproj">
+    <ProjectReference Include="..\CSOBRF_Util\CSOBRF_Util.csproj">
       <Project>{394948f5-5fa7-46fa-9bd7-0cfd284fa3ba}</Project>
       <Name>CSOBRF_Util</Name>
     </ProjectReference>

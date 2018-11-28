@@ -1,14 +1,13 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
+using System.ServiceProcess;
 
 namespace CSOBRF_Validacoes
 {
     #region Classe estática clsFilaProcessosWindows
     public static class FilaProcessosWindows
     {
-
-
-
         #region "Método estático que lista os processos aberto do Windows"
         /// <summary>
         /// Lista todos os processos
@@ -42,7 +41,7 @@ namespace CSOBRF_Validacoes
         }
         #endregion
 
-        #region "Método estático que finaliza um processo no Windows por ID"
+        #region Método estático que finaliza um processo no Windows por ID
         /// <summary>
         /// Finaliza um processo pelo ID
         /// </summary>
@@ -60,7 +59,7 @@ namespace CSOBRF_Validacoes
         }
         #endregion
 
-        #region Método estático para finalizar processo do Nota Fiscal Paulista
+        #region Método estático para finalizar processo (por nome processo)
         public static void finalizarProcessoPorNome(string nome) {                                    
             string id = "";      
             Process[] Processos = Process.GetProcesses();
@@ -90,6 +89,88 @@ namespace CSOBRF_Validacoes
             //MessageBox.Show(nome);
 
             finalizarProcessoPorNome(nome);
+        }
+        #endregion
+
+        #region Métodos Referentes a Serviços do Windows (Inicia, Para e Reinicia Serviço)
+        public static void IniciaServico(string serviceName, int timeoutMilliseconds = 10000)
+        {
+            ServiceController service = new ServiceController(serviceName);
+            try
+            {
+                TimeSpan timeout = TimeSpan.FromMilliseconds(timeoutMilliseconds);
+                service.Refresh();
+                if (service.Status == ServiceControllerStatus.Stopped)
+                {
+                    service.Start();
+                    service.WaitForStatus(ServiceControllerStatus.Running, timeout);
+                }
+                else
+                {
+                    throw new Exception(string.Format("{0} --> já esta iniciado.", service.DisplayName));
+                }
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
+        public static void ParaServico(string serviceName, int timeoutMilliseconds = 10000)
+        {
+            ServiceController service = new ServiceController(serviceName);
+            try
+            {
+                TimeSpan timeout = TimeSpan.FromMilliseconds(timeoutMilliseconds);
+                service.Refresh();
+
+                if (service.Status == ServiceControllerStatus.Running)
+                {
+                    service.Stop();
+                    service.WaitForStatus(ServiceControllerStatus.Stopped, timeout);
+                }
+                else
+                {
+                    throw new Exception(string.Format("{0} --> já esta parado.", service.DisplayName));
+                }
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
+        public static void ReiniciaServico(string serviceName, int timeoutMilliseconds = 10000)
+        {
+            ServiceController service = new ServiceController(serviceName);
+            try
+            {
+                int millisec1 = Environment.TickCount;
+                TimeSpan timeout = TimeSpan.FromMilliseconds(timeoutMilliseconds);
+                service.Refresh();
+
+                if (service.Status != ServiceControllerStatus.Stopped)
+                {
+                    service.Stop();
+                    service.WaitForStatus(ServiceControllerStatus.Stopped, timeout);
+
+                    // conta o resto do timeout
+                    int millisec2 = Environment.TickCount;
+                    timeout = TimeSpan.FromMilliseconds(timeoutMilliseconds - (millisec2 - millisec1));
+
+                    service.Start();
+                    service.WaitForStatus(ServiceControllerStatus.Running, timeout);
+                }
+                else
+                {
+                    service.Start();
+                    throw new Exception(string.Format("{0} --> foi parado e a seguir iniciado", service.DisplayName));
+                }
+            }
+            catch
+            {
+                throw;
+            }
         }
         #endregion
     }
