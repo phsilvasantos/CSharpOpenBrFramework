@@ -1,5 +1,5 @@
 Fernando Passaia - 25/11/2018 - Visual Studio 2017 Community.
-Note: This Framework was developed for Brazilian or Portuguese Speakers, because all methods and code have the Portuguese language for nomeclature.
+Note: This Framework was developed for Brazilian or Portuguese Speakers, because all methods and code have the Portuguese language for nomeclature. If your language is Spanish, you will probably understand it without any problem.
 
 A Muitos anos atrás eu iniciei o Desenvolvimento desse Framework (em 2008), com várias classes para tratamento de strings, de decimais, datas,
 métodos de arredondamento de valores, tratamento de imagens, impressão em impressoras de 40 colunas (Daruma, Bematech, etc), ECF (Cupom Fiscal), FTP, criptografia, manipulação de arquivos, Consulta CEP (WebService Correios) e vários outros. Além disso possuo uma classe para ATIVAÇÃO de Software:
