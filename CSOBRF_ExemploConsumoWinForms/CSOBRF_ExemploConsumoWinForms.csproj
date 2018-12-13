@@ -75,6 +75,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Ativacao.png" />
+    <None Include="Ativacao2.png" />
     <Content Include="logo.ico" />
   </ItemGroup>
   <ItemGroup>

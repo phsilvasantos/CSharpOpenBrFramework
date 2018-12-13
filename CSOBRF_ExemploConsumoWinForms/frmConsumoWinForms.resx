@@ -117,6 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Explicação e Exemplo de Uso - acima deixamos um exemplo de "interface" para mostrar para o Cliente:
+
+Você pode usar essas classes para Solicitar uma Chave de Ativação do Sistema para os seus clientes de "tempos em tempos" e garantir que o seu Software não
+foi pirateado. O Ativador gerará uma chave de 8 números (3 + 5): Os 3 primeiros são randômicos (1-100) o que garante que dificilmente o cliente poderá usar uma
+chave anterior, caso tenha anotado a mesma. A segunda chave 5 digitos, é baseada no Serial do HD (ou seja, um cliente não poderá usar chave de outro).
+
+De quanto tempo em quanto tempo a chave deverá ser solicitada, ou se o sistema está travado ou não, você deve controlar em seu Software. Eu criei uma tabela
+onde anoto a última ativação e quando dá x meses, peço novamente. Além disso, uma "flag" travado, pra caso o sistema trave, só destrave após digitar a chave.
+Essas informações ficam criptografadas pro cliente não alterar na mão, para isso use as classes de Criptografia também presentes nessa DLL.
+
+O GroupBox abaixo é o Ativador. Apenas você deve ter ele. Você irá inserir a chave de 8 digitos do cliente (3+5) e ele dará a chave de retorno que o Cliente terá que
+inserir para liberar seu aplicativo. A Chave de Retorno tem formato: ABC12-DEF34-GHI56 (5+5+5). Caso o cliente digite a chave correta eu libero o sistema, caso
+contrário eu mantenho travado.
+
+Atualmente eu desenvolvi uma WebApi que valida a chave, então o cliente pode fazer tudo ONLINE, obter a chave e validar. Mas para clientes sem internet,
+eu ainda forneço a chave manual por Telefone ou Whatsapp. Você também pode automatizar o processo, ou mesmo fazer um site pro cliente pegar a chave, ou
+manter a ativação manual apenas por telefone/whatsapp. Eu peço uma chave original pros meus clientes 1x por ano, mas caso eles se tornem inadimplentes
+Atualmente eu desenvolvi uma WebApi que valida a chave, então o cliente pode fazer tudo ONLINE, obter a chave e validar. Mas para clientes sem internet,
+
+Nota: O Código de Ativação do Cliente está sendo gerado automaticamente no construtor. Como dito, os 3 primeiros caracters são randoms, então ao reiniciar
+esse aplicativo você notará que ele pedirá outro código e consecutivamente será necessário informar outra chave.</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
