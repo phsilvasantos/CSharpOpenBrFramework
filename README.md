@@ -18,8 +18,10 @@ ExemploConsumoWinForms: Irei disponibilizar um Projeto Windows Forms que irá mo
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Eu irei manter abaixo um LOG das implementações que estou subindo, assim como na documentação do GitHub. Irei também disponibiliza um Projeto WindowsForms de TCC que desenvolvi em 2012 (FuturaDataTCC) C# + MVC + SQL Server que será integrado a essa DLL. Também irei disponibilizar um software Asp.Net CoreOpen-Source para Suporte a Clientes (CRM). Vamos lá:
+Parte desse código é muito antigo (2008) e não adotam as melhores metodologias para os dias atuais. Porém não re-escrevi as classes pois uso em ERPs grandes e daria muito trabalho em alguns pontos para adaptar. Estão funcionando bem, então mantenho esse código funcionando como está.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-25/11/2018: Subindo todas as dlls organizadas. Próximo passo é um Windows Forms consumindo todas as rotinas.
+Eu irei manter abaixo um LOG das implementações que estou subindo, assim como na documentação do GitHub. Irei também disponibiliza um Projeto WindowsForms de TCC que desenvolvi em 2012 (FuturaDataTCC) C# + MVC + SQL Server que será integrado a essa DLL. Também irei disponibilizar um software Asp.Net CoreOpen-Source para Suporte a Clientes (CRM). Vamos lá:
+
+----------------------------------------------------------------------------------------------------------------------------------------------
