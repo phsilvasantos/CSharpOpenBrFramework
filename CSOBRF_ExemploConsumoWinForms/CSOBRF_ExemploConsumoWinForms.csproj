@@ -77,6 +77,10 @@
   <ItemGroup>
     <None Include="Ativacao.png" />
     <None Include="Ativacao2.png" />
+    <Content Include="Library\CSOBRF_Criptografia.dll" />
+    <Content Include="Library\CSOBRF_Fiscal.dll" />
+    <Content Include="Library\CSOBRF_Util.dll" />
+    <Content Include="Library\CSOBRF_Validacoes.dll" />
     <Content Include="logo.ico" />
   </ItemGroup>
   <ItemGroup>
@@ -93,5 +97,6 @@
       <Name>CSOBRF_Validacoes</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
