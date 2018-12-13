@@ -25,3 +25,5 @@ Parte desse código é muito antigo (2008) e não adotam as melhores metodologia
 Eu irei manter abaixo um LOG das implementações que estou subindo, assim como na documentação do GitHub. Irei também disponibiliza um Projeto WindowsForms de TCC que desenvolvi em 2012 (FuturaDataTCC) C# + MVC + SQL Server que será integrado a essa DLL. Também irei disponibilizar um software Asp.Net CoreOpen-Source para Suporte a Clientes (CRM). Vamos lá:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
+Para rodar esse projeto, baixe (clone) o repositório. Antes de abrir a solução, crie uma pasta no C:\CSharpOpenBrFramework. Após isso, copie o conteúdo da pasta "Librarys" (dentro do exemplo WinForms) para esse diretório. Pronto, só abrir e compilar. Não se esqueça de setar o projeto de Exemplos (WinForms) como principal para rodar.
