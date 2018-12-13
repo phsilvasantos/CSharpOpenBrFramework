@@ -81,6 +81,7 @@
     <Content Include="Library\CSOBRF_Fiscal.dll" />
     <Content Include="Library\CSOBRF_Util.dll" />
     <Content Include="Library\CSOBRF_Validacoes.dll" />
+    <Content Include="Library\readme.txt" />
     <Content Include="logo.ico" />
   </ItemGroup>
   <ItemGroup>
