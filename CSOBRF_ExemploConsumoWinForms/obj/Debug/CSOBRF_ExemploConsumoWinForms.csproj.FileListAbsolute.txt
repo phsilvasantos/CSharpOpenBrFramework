@@ -12,3 +12,5 @@ C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_ExemploConsumoWinForms\obj\Debug\CSOBRF
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_ExemploConsumoWinForms\obj\Debug\CSOBRF_ExemploConsumoWinForms.csproj.CoreCompileInputs.cache
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_ExemploConsumoWinForms\obj\Debug\CSOBRF_ExemploConsumoWinForms.exe
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_ExemploConsumoWinForms\obj\Debug\CSOBRF_ExemploConsumoWinForms.pdb
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_ExemploConsumoWinForms\obj\Debug\CSOBRF_ExemploConsumoWinForms.csprojAssemblyReference.cache
+C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_ExemploConsumoWinForms\obj\Debug\CSOBRF_ExemploConsumoWinForms.csproj.CopyComplete

@@ -13,7 +13,7 @@
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x86</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -76,6 +76,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSOBRF_Criptografia\CSOBRF_Criptografia.csproj">
+      <Project>{EB1A439A-2512-4C6C-91E6-DAFF8943F35D}</Project>
+      <Name>CSOBRF_Criptografia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSOBRF_Util\CSOBRF_Util.csproj">
+      <Project>{394948F5-5FA7-46FA-9BD7-0CFD284FA3BA}</Project>
+      <Name>CSOBRF_Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CSOBRF_Validacoes\CSOBRF_Validacoes.csproj">
+      <Project>{4E15C02C-D93C-4C91-93A4-5D4B5B276FAE}</Project>
+      <Name>CSOBRF_Validacoes</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -391,11 +391,7 @@ namespace CSOBRF_Validacoes
                 {
                     return false;
                 }
-            }
-            else
-            {
-                return false;
-            }
+            }            
             return false;
         }//fim rotina que verifica se é inteiro
         #endregion     

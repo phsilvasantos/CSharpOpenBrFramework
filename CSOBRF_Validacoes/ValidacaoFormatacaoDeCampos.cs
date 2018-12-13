@@ -168,10 +168,10 @@ namespace CSOBRF_Validacoes
         public string[] retornaCepPeloWSCorreios(string cep)
         {
             using (var ws = new CSOBRF_Validacoes.WSCorreios.AtendeClienteService())
-            {
-                var resultado = ws.consultaCEP(cep);
+            {                
                 try
                 {
+                    var resultado = ws.consultaCEP(cep);
                     string[] cepRetorno = new string[6];
                     cepRetorno[0] = resultado.end;
                     cepRetorno[1] = resultado.complemento;
@@ -528,30 +528,6 @@ namespace CSOBRF_Validacoes
         {
             return texto = texto.Replace("'", "");
 
-        }
-        #endregion
-
-        #region Substitui Virgula por Ponto
-        /// <summary>
-        /// Tira Aspas da String - Chamar Rotina para limpar string Antes de montar uma SQL pra jogar no banco
-        /// </summary>
-        /// <param name="texto">String para serem retiradas as Aspas</param>
-        /// <returns></returns>
-        public string substituiVirgulaPorPonto(string texto)
-        {
-            return texto = texto.Replace(",", ".");
-        }
-        #endregion
-
-        #region Substitui Virgula por Ponto
-        /// <summary>
-        /// Tira Aspas da String - Chamar Rotina para limpar string Antes de montar uma SQL pra jogar no banco
-        /// </summary>
-        /// <param name="texto">String para serem retiradas as Aspas</param>
-        /// <returns></returns>
-        public string substituiPontoPorVirgula(string texto)
-        {
-            return texto = texto.Replace(".", ",");
         }
         #endregion
 
