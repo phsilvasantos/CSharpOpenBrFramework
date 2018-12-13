@@ -10,7 +10,7 @@ Ele só poderá ter a chave se estiver em dia com "financeiro" ou algum outro cr
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Essas Dlls foram Desenvolvidas a partir de 2008 no .Net Framework 2.0, e estão até hoje no mesmo Framework. Deixei dessa maneira para que ficassem levese possam ser interligadas a praticamente qualquer sistema. Mais uma informação: Essas Dlls antes de abrir tinham o nome de Dll"FuturaData" alguma coisa,que é o nome da minha empresa, eventualmente pode haver algum resquício (limpei elas, mas pode haver alguma referência a ser arrumada ainda). Apontei essas dlls para compilação em c:\CSharpOpenBrFramework, então basta criar esse diretório que tudo será jogado lá de maneira fácil.
+Essas Dlls foram Desenvolvidas a partir de 2008 no .Net Framework 2.0, e estão até hoje no mesmo Framework. Deixei dessa maneira para que ficassem levese possam ser interligadas a praticamente qualquer sistema. Apontei essas dlls para compilação em c:\CSharpOpenBrFramework, então basta criar esse diretório que tudo será jogado lá de maneira fácil. Caso você tenha algum problema de compatibilidade, verifique nas propriedades de todos projetos, se eles estão apontando pra x86 e framework 2.0.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
