@@ -11,3 +11,8 @@ C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.csproj.CoreC
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.dll
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.pdb
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.csproj.CopyComplete
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.csprojAssemblyReference.cache
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.csproj.CoreCompileInputs.cache
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.csproj.CopyComplete
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.dll
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Util\obj\Debug\CSOBRF_Util.pdb

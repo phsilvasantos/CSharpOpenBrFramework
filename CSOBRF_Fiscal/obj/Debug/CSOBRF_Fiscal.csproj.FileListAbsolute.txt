@@ -11,3 +11,8 @@ C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.csproj.C
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.dll
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.pdb
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.csproj.CopyComplete
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.csprojAssemblyReference.cache
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.csproj.CoreCompileInputs.cache
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.csproj.CopyComplete
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.dll
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Fiscal\obj\Debug\CSOBRF_Fiscal.pdb

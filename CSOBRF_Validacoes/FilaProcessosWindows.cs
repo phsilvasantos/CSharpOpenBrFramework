@@ -172,6 +172,28 @@ namespace CSOBRF_Validacoes
                 throw;
             }
         }
+
+        public static int RetornaStatusServico(string serviceName, int timeoutMilliseconds = 10000)
+        {
+            ServiceController serviceController = new ServiceController(serviceName);
+            try
+            {
+                int tickCount = Environment.TickCount;
+                TimeSpan.FromMilliseconds((double)timeoutMilliseconds);
+                serviceController.Refresh();
+                if (serviceController.Status == ServiceControllerStatus.Stopped)
+                    return 0;
+                if (serviceController.Status == ServiceControllerStatus.Running)
+                    return 1;
+                if (serviceController.Status == ServiceControllerStatus.StartPending)
+                    return 2;
+                return serviceController.Status == ServiceControllerStatus.StopPending ? 3 : 0;
+            }
+            catch
+            {
+                return 0;
+            }
+        }
         #endregion
     }
     #endregion

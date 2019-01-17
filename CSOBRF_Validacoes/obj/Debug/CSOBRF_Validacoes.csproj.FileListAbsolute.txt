@@ -9,3 +9,7 @@ C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.dll
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.pdb
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.csprojAssemblyReference.cache
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.csprojAssemblyReference.cache
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.csproj.CoreCompileInputs.cache
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.dll
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Validacoes\obj\Debug\CSOBRF_Validacoes.pdb

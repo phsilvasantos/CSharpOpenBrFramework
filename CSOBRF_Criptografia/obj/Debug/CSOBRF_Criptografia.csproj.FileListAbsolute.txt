@@ -9,3 +9,8 @@ C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptogra
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.pdb
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.csprojAssemblyReference.cache
 C:\PcDevGit\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.csproj.CopyComplete
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.csprojAssemblyReference.cache
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.csproj.CoreCompileInputs.cache
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.csproj.CopyComplete
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.dll
+C:\RepoDev\CSharpOpenBrFramework\CSOBRF_Criptografia\obj\Debug\CSOBRF_Criptografia.pdb
